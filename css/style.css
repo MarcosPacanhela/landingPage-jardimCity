@@ -21,6 +21,7 @@ header{
     border: 2px solid #13d823;
     border-radius: 100%;
     padding: 25px;
+    cursor: default;
 }
 
 li{
