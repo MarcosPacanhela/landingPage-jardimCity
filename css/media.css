@@ -46,7 +46,7 @@
     h3{
         margin-top: 30px;
         font-size: 40px;
-        line-height: 10px;
+        line-height: 5px;
         font-family: poppinsmedium;
         color: #13d823;
     
@@ -54,8 +54,8 @@
     
   
     h4{
-        font-size: 30px;
-        line-height: 10px;
+        font-size: 20px;
+        line-height: 5px;
         font-family: poppinsmedium;
         margin-left: 15%;
     }
@@ -100,8 +100,8 @@
     
     .slider-button{
         display: inline-block;
-        height: 10px;
-        width: 10px;
+        height: 20px;
+        width: 20px;
         border-radius: 5px;
         background-color: #fff;
     }
