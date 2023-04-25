@@ -46,7 +46,6 @@
     h3{
         margin-top: 30px;
         font-size: 40px;
-        line-height: 5px;
         font-family: poppinsmedium;
         color: #13d823;
     
@@ -54,8 +53,7 @@
     
   
     h4{
-        font-size: 20px;
-        line-height: 5px;
+        font-size: 15px;
         font-family: poppinsmedium;
         margin-left: 15%;
     }
@@ -94,7 +92,7 @@
     }
     
     .button-container{
-        top: -20px;
+        top: -30px;
         position: relative;
     }
     
